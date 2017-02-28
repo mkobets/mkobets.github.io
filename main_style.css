@@ -1,6 +1,11 @@
 body {
 	padding-top: 50px; 
 	font-family: Open Sans;
+	background-image: url('http://amur.net/kupon/ngximage/crop-760x366/uploads/174fd7e759140e98cb95be3ca214bb17-568x288.jpg');
+	background-size: 100% 100%;    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 }
 
 p {
