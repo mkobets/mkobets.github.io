@@ -38,32 +38,23 @@ function initMap() {
 infowindow.open(map,marker);
 }
 
-
-   
-
-
-
-
-
-
-
 function hover(element) {
-    element.setAttribute('src', 'ashot.jpg');
+    element.setAttribute('src', 'img/ashot.jpg');
 }
-function unhover(element) {element.setAttribute('src', 'elena.jpg');
+function unhover(element) {element.setAttribute('src', 'img/elena.jpg');
 }
 
 function hover1(element) {
-    element.setAttribute('src', 'ashot2.jpg');
+    element.setAttribute('src', 'img/ashot2.jpg');
 }
 function unhover1(element) {
-    element.setAttribute('src', 'elena.jpg');
+    element.setAttribute('src', 'img/elena.jpg');
 }
 
 function hover2(element) {
-    element.setAttribute('src', 'ashot3.jpg');
+    element.setAttribute('src', 'img/ashot3.jpg');
 }
 function unhover2(element) {
-    element.setAttribute('src', 'elena.jpg');
+    element.setAttribute('src', 'img/elena.jpg');
 }
 
