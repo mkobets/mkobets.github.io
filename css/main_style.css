@@ -38,7 +38,8 @@ p {
 
 .navbar-default {
 	background: #00BCD4;
-	border-bottom: 1px solid #9ACC89;
+	/*border-bottom: 1px solid #9ACC89;*/
+	border: none;
 }
 .navbar-brand {
 	font-family: inglobal, Open Sans;
